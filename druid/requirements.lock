@@ -1,9 +1,9 @@
 dependencies:
 - name: zookeeper
   repository: https://charts.bitnami.com/bitnami
-  version: 1.4.2
+  version: 7.0.6
 - name: postgresql
   repository: https://charts.bitnami.com/bitnami
-  version: 7.2.0
-digest: sha256:e34b4ce37db39244f54b56c000e97c4c4d8f22607629bc2a8ed3332ff80534d7
-generated: "2021-07-09T14:47:32.735619+05:30"
+  version: 10.5.2
+digest: sha256:a901d225cc77798682401642d6bdc964ad92ac4d7e6a0aff961b4d21a5afefeb
+generated: "2021-07-09T16:14:43.239218+05:30"
